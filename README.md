@@ -1,2 +1,2 @@
-# EPAM_HOME_TASK_11
-EPAM_HOME_TASK_11
+# AjayKatkadeJavaScript
+epamTask
